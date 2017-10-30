@@ -52,11 +52,10 @@ body{
 .red {
     background-color: red;
 }
-.orange {
+.caution {
     background-color: orange;
 }
 .number{
-    background-color: red;
     font-size: 3em;
     font-weight: bold;
     font-family: arial;
