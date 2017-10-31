@@ -1,5 +1,6 @@
 body{
-  background-color: #181818;
+  background: #000000 url('traf_img.jpg') no-repeat;
+  position: relative;
 }
 
 .lightBox {
