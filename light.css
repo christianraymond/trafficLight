@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: #181818;
 }
 
 .lightBox {
@@ -61,5 +61,10 @@ body{
     font-family: arial;
     margin: 0.25em;
     padding: 0.25em;
+    color: white;
 
+}
+
+h1{
+  color: white;
 }
